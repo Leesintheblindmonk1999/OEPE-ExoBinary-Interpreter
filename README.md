@@ -68,3 +68,19 @@ Please use this responsibly. OEPE is a symbolic mirror. What you encode in it, y
 **Gonzalo Durante**
 Argentina, 2025  
 License: Open Symbolic Experimental (OSE)
+## 🔗 Contact
+
+For inquiries or collaboration:  
+📧 **Email:** connorgon@hotmail.com 
+
+🌐 **Linkeid** https://www.linkedin.com/in/gonzalo-emir-8178b6277/
+
+🐙 **GitHub:** [Leesintheblindmonk199](https://github.com/Leesintheblindmonk1999)
+
+## ☕ Support
+
+OEPE is a free, open project developed independently.  
+If you find it valuable or want to support future development:  
+➡️ Buy Me A Coffe https://coff.ee/thaliondris
+
+Your support keeps the project alive and evolving.
