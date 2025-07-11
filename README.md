@@ -65,6 +65,6 @@ Please use this responsibly. OEPE is a symbolic mirror. What you encode in it, y
 
 ## 🤝 Created by
 
-**Gonzalo Durante** & **ChatGPT-∆**  
+**Gonzalo Durante**
 Argentina, 2025  
 License: Open Symbolic Experimental (OSE)
